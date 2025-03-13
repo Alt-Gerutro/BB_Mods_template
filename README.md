@@ -9,8 +9,7 @@ More about this [here](https://github.com/BeatblockTools/BeatblockPlus/wiki).
 # Include Files
 
 If you don't trust the pre-installed files, you can reinstall them yourself. Name them the same as before, for convenience.  
-[7zip terminal](https://www.7-zip.org/download.html)  
-[jq](https://jqlang.org/)
+[7zip terminal](https://www.7-zip.org/download.html), [jq](https://jqlang.org/)
 
 # Usage
 
@@ -19,6 +18,13 @@ If you don't trust the pre-installed files, you can reinstall them yourself. Nam
 `delete_mod.bat` - delete mod from folder `%USER%\AppData\Roaming\beatblock\Mods`.  
 `reinstall_mod.bat` - reinstall mod. Just `delete_mod.bat` and `install_mod.bat`.  
 `export_mod.bat` - export mod to archive `.\mod-id_version.zip`.
+
+## Files directories
+
+**The layout of all files according to the markup below is recommended for better understanding of the project in the future or for the development team.**
+
+In the directory `mod_info` contains files that should be in the mod's root directory, i.e. mod.json, icon.png, etc.  
+Directory src uses for other, like folders `assets`, `scripts`, etc.
 
 # Links
 
