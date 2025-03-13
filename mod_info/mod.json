@@ -1,0 +1,8 @@
+{
+    "id": "template-mod",
+    "name": "Template Mod",
+    "author": "Author Name",
+    "description": "Just Description to the template.",
+    "version": "0.0.0.0",
+    "enabled": true
+}
