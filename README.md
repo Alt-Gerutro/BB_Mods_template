@@ -15,10 +15,10 @@ If you don't trust the pre-installed files, you can reinstall them yourself. Nam
 # Usage
 
 ! All batch files gets names from `mod_info\mod.json`, `id` !  
-`install_mod.bat` - install mod to folder: `%USER%\AppData\Roaming\beatblock\Mods`  
-`delete_mod.bat` - delete mod from folder `%USER%\AppData\Roaming\beatblock\Mods`  
-`reinstall_mod.bat` - reinstall mod. Just `delete_mod.bat` and `install_mod.bat`.
-`export_mod.bat` - export mod to archive `.\mod-id_version.zip`
+`install_mod.bat` - install mod to folder: `%USER%\AppData\Roaming\beatblock\Mods`.  
+`delete_mod.bat` - delete mod from folder `%USER%\AppData\Roaming\beatblock\Mods`.  
+`reinstall_mod.bat` - reinstall mod. Just `delete_mod.bat` and `install_mod.bat`.  
+`export_mod.bat` - export mod to archive `.\mod-id_version.zip`.
 
 # Links
 
