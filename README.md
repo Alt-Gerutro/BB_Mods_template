@@ -20,7 +20,7 @@ If you don't trust the pre-installed files, you can reinstall them yourself. Nam
 `reinstall_mod.bat` - reinstall mod. Just `delete_mod.bat` and `install_mod.bat`.
 `export_mod.bat` - export mod to archive `.\mod-id_version.zip`
 
-# Links:
+# Links
 
 BeatBlock Game: https://store.steampowered.com/app/3045200/Beatblock/  
 lovely-injector : https://github.com/ethangreen-dev/lovely-injector/releases/  
