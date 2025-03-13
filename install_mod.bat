@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 set "mod_json=mod_info\mod.json"
-set "jq_path=include\jq-1.7.1.exe"
+set "jq_path=include\jq.exe"
 set "mods_dir=%USERPROFILE%\AppData\Roaming\beatblock\Mods"
 
 echo Checking paths:
